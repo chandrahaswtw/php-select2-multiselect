@@ -12,9 +12,9 @@ Designed to efficiently handle large datasets with smooth infinite scrolling. As
 - Select2 single select dropdown for projects  
 - Infinite scroll for the both.
 
-## Database Configuration
+## MySQL database Configuration
 
-Database settings are located in `config/_db.php`.
+MySQL database settings are located in `config/_db.php`.
 
 Sample SQL data is available in `insert_random_data.sql`, which populates:
 - A multiselect dropdown for **features**
