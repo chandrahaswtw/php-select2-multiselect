@@ -1,0 +1,18 @@
+0 verbose cli /Users/balledachandrahas/.nvm/versions/node/v22.15.0/bin/node /Users/balledachandrahas/.nvm/versions/node/v22.15.0/bin/npm
+1 info using npm@10.9.2
+2 info using node@v22.15.0
+3 silly config load:file:/Users/balledachandrahas/.nvm/versions/node/v22.15.0/lib/node_modules/npm/npmrc
+4 silly config load:file:/Users/balledachandrahas/Documents/ProjectCode/multiselect_poc/.npmrc
+5 silly config load:file:/Users/balledachandrahas/.npmrc
+6 silly config load:file:/Users/balledachandrahas/.nvm/versions/node/v22.15.0/etc/npmrc
+7 verbose title npm run watch
+8 verbose argv "run" "watch"
+9 verbose logfile logs-max:10 dir:/Users/balledachandrahas/Documents/ProjectCode/multiselect_poc/$HOME/.npmcache_new/_logs/2025-04-30T13_12_42_327Z-
+10 verbose logfile /Users/balledachandrahas/Documents/ProjectCode/multiselect_poc/$HOME/.npmcache_new/_logs/2025-04-30T13_12_42_327Z-debug-0.log
+11 silly logfile done cleaning log files
+12 verbose cwd /Users/balledachandrahas/Documents/ProjectCode/multiselect_poc
+13 verbose os Darwin 24.3.0
+14 verbose node v22.15.0
+15 verbose npm  v10.9.2
+16 verbose exit 9
+17 verbose code 9

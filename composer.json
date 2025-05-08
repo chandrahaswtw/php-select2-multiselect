@@ -1,0 +1,15 @@
+{
+    "name": "balledachandrahas/multiselect_poc",
+    "autoload": {
+        "psr-4": {
+            "MS\\": "Framework/"
+        }
+    },
+    "authors": [
+        {
+            "name": "chandrahas-balleda",
+            "email": "chandrahas.balleda@ibm.com"
+        }
+    ],
+    "require": {}
+}

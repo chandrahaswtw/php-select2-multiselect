@@ -1,0 +1,74 @@
+.navbar{
+  height: 4rem; 
+  background-color: #1f2937; 
+  color: white;
+  display: flex; 
+  justify-content: center; 
+  align-items: center; 
+  font-size: 1.25rem; 
+  position: fixed; 
+  margin-bottom: 2rem; 
+  left: 0; 
+  top: 0; 
+  width: 100%; 
+  z-index: 50; 
+}
+
+.container {
+  max-width: 100%;
+  margin-left: auto;
+  margin-right: auto;
+  padding-left: 6rem;
+  padding-right: 6rem;
+  margin-top: 8rem;
+}
+
+.form-title{
+  font-size: 1.25rem;
+  margin-bottom: 1rem;
+}
+
+.form-contents{
+    display: grid;
+    grid-template-columns: 1fr 10fr;
+    gap: 0.5rem;
+}
+
+.select2 {
+  width:100%!important;
+}
+
+.select2-selection {
+  border-color: #7c7b7b !important; /* example */
+}
+
+.features-projects-table {
+  width: 100%;
+  border-collapse: collapse;
+  border: 1px solid #9ca3af;
+  margin-top: 2rem;
+}
+
+.features-projects-table th {
+  border: 1px solid #d1d5db;
+  padding: 0.5rem;
+  background-color: #f3f4f6;
+}
+
+.features-projects-table td{
+  border: 1px solid #d1d5db;
+  padding: 0.5rem;
+}
+
+.no-records{
+    text-align: center;
+    margin-top: 3rem;
+}
+
+.submit-btn {
+  display: block;
+  margin: auto;
+  margin-top: 1rem;
+  padding-left: 1rem;
+  padding-right: 1rem;
+}
